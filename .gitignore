@@ -1,8 +1,8 @@
 
 
-# The models #
-IITD-speech-vone/models/*
-*.pk
+# The model
+#*/models/*
+#*.pk
 
 # Compiled source #
 ###################
